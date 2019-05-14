@@ -1,0 +1,18 @@
+.button-class {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    font-weight: lighter;
+    color: #888;
+    outline: 1px solid #888;
+    background-color: #e0e1e6;
+    font-size: 1.4em;
+    align-items: center;
+    width: 75px;
+    height: 75px;
+}
+
+.operator {
+    background-color: #fe9241;
+    color: white;
+}
