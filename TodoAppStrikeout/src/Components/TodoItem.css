@@ -1,0 +1,16 @@
+.edit-btn {
+    background: green;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    float: right;
+    margin-right: 10px;
+}
+
+.btn-style {
+    background: #ff0000;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    float: right;
+}

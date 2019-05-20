@@ -1,0 +1,15 @@
+.Addbtn {
+    flex: 1;
+    background: #333;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+form {
+    display: flex;
+}
+
+.input-field {
+    flex: 10;
+    padding: 15px;
+}
